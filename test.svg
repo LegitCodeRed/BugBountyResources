@@ -3,7 +3,11 @@
   height="120px"
   width="120px"
   xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
+  </defs>
   <a href="https://www.example.com">
     <circle cx="5" cy="5" r="4" />
   </a>
+  
 <svg/onload=alert('XSS')>
