@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" xml:space="preserve" overflow="hidden" onload=alert('XSS')>
+    xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" xml:space="preserve" overflow="hidden">
     <script>alert(1)</script>
     <g transform="translate(-384 -104)">
         <g>
