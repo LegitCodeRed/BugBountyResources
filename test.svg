@@ -10,4 +10,4 @@
     <circle cx="5" cy="5" r="4" />
   </a>
   
-<svg/onload=alert('XSS')>
+<svg>
